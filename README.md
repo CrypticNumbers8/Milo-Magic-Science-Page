@@ -1,1 +1,2 @@
-# Milo-Magic-Science-Page
+# Milo-science-magic-page
+Milo's website
