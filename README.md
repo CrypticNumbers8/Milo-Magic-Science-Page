@@ -1,6 +1,5 @@
 # Milo-science-magic-page
-Milo's website
-
+Milo's website - [Link](https://milo-magic-science.netlify.app/) 
 ## Overview
 
 This website is designed to adapt seamlessly across various devices and screen sizes, ensuring an optimal user experience whether accessed on a desktop, tablet, or smartphone. The layout and design are crafted to highlight my portfolio, experiences, and contact information.
